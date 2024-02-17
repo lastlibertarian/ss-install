@@ -7,7 +7,7 @@ Shadowsocks is a high-performance cross-platform secured socks5 proxy. It will h
 To install Shadowsocks, you can use the following command:
 
 ```bash
-wget https://is.gd/ss_install -O ss-install.sh && bash ss-install.sh
+wget https://is.gd/ss_installer -O ss_installer.sh && bash ss_installer.sh
 ```
 
 This command performs the following actions:
