@@ -227,7 +227,7 @@ EOF
   sudo systemctl enable --now shadowsocks-libev-server@service > /dev/null 2>&1
   sudo systemctl restart shadowsocks-libev-server@service > /dev/null 2>&1
 
-  # clear
+  clear
   echo_color 32 "Shadowsocks installation and configuration completed."
 
   # Выводим информацию
